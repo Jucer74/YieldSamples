@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YieldConsole", "YieldConsol
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Console", "Console", "{02E67789-7ED3-4DED-B58B-D00EA62F5667}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YieldFile", "YieldFile\YieldFile.csproj", "{00639447-B121-47ED-8DCA-3FDDA229119A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YieldFile", "YieldFile\YieldFile.csproj", "{00639447-B121-47ED-8DCA-3FDDA229119A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "File", "File", "{44A64D35-E653-4626-B39C-10522804DDB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,7 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{17EA5B6E-AC1E-4B25-8EB3-1E034F6D83F5} = {02E67789-7ED3-4DED-B58B-D00EA62F5667}
+		{00639447-B121-47ED-8DCA-3FDDA229119A} = {44A64D35-E653-4626-B39C-10522804DDB4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0E4749F3-84D2-435E-8930-13A4506D5A5E}
