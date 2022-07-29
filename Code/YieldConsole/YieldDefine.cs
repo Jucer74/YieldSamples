@@ -8,6 +8,6 @@
 
     public static class YieldDefine
     {
-        public const int QUANTITY = 1;
+        public const int QUANTITY = 1_000_000;
     }
 }
